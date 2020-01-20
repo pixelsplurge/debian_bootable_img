@@ -16,10 +16,8 @@ Mounted locally read/write in chroot environment
 
 Mounted with Qemu.
 
-Due to image size ~370mb (too large for github), and in order to control self funded bandwidth registration required to download.
-### Download Link
-[https://pixelsplurge.com/](https://pixelsplurge.com/)
-
+### Download Link due to image size ~370mb (too large for github).
+[Download ext4fs-weston-img.zip](https://pixelsplurge.com/?mode=download)
 
 ### Howto
 
