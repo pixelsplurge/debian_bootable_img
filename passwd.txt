@@ -1,2 +1,2 @@
-user user
-root root
+user:user password:user
+user:root password:root
