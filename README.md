@@ -28,7 +28,7 @@ First unzip
 
 (These instruction are appropriate for Fedora 27, please adjust accordingly)
 
-`su -c "qemu-kvm -m 2048 -name deb-min -drive format=raw,file=/path/to/ext4fs.img -vga std -usbdevice tablet"`
+$`su -c "qemu-kvm -m 2048 -name deb-min -drive format=raw,file=/path/to/ext4fs.img -vga std -usbdevice tablet"`
 
 Login: user password: user
 
@@ -40,7 +40,7 @@ $`weston-launch`
 
 ### DD write to usb or sd drive
 
-`su -c "dd if=/path/to/ext4fs.img of=/dev/sdX bs=8M status=progress oflag=direct"`
+$`su -c "dd if=/path/to/ext4fs.img of=/dev/sdX bs=8M status=progress oflag=direct"`
 
 ### Remaster with chroot
 
