@@ -2,7 +2,7 @@
 ### Weston on Debian 9 Stretch screenshot.
 ![](https://github.com/pixelsplurge/debian_bootable_img/blob/master/weston_screenshot.png)
 
-Developing Debian 9 Stretch based minimal (under 400mb zipped) raw image (img expands to ~4gb)
+Developing Debian 9 Stretch based minimal (under 400mb zipped) raw image
 
 With Wayland/Weston interface
 
