@@ -44,7 +44,7 @@ $`su -c "dd if=/path/to/ext4fs.img of=/dev/sdX bs=8M status=progress oflag=direc
 
 $`mkdir tmp`
 
-$`su -`
+$`su`
 
 #`mount -o loop,rw ./ext4fs.img ./tmp`
 
