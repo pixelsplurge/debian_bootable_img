@@ -46,7 +46,7 @@ $`mkdir tmp`
 
 $`su`
 
-#`mount -t ext4 -o loop,rw,offset=1048576 ./ext4fs.img ./tmp`
+#`mount -t ext4 -o loop,rw ./ext4fs.img ./tmp`
 
 #`mount --bind /dev ./tmp/dev`
 
